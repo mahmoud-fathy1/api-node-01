@@ -21,7 +21,3 @@ This repository is for portfolio and learning demonstration only.
 - User data storage and validation
 - Structured API responses
 - Modular structure with middlewares and routes
-
----
-
-> This project is shared for review and technical demonstration only.
